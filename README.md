@@ -13,6 +13,8 @@ To run the Pokémon console application locally, you need to have [.NET Core](ht
 
 3.Build the application: dotnet build
 
+4. 4. Run the following command to restore the NuGet packages: dotnet restore
+
 ## Usage
 
 1. Run the application: dotnet run
@@ -40,3 +42,11 @@ If you encounter any errors or the application does not return any data for a Po
 The Pokémon name is spelled correctly.
 Your internet connection is stable.
 The PokéAPI is available and accessible.
+
+## Dependencies
+
+This application utilizes the following dependencies:
+- System.Text.Json - A popular JSON framework for .NET.
+
+These dependencies are managed via NuGet and will be automatically restored during the `dotnet restore` step.
+
