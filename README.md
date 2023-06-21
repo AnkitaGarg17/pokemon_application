@@ -9,7 +9,7 @@ To run the Pokémon console application locally, you need to have [.NET Core](ht
 
 1. Clone this repository to your local machine using the following command: git clone https://github.com/AnkitaGarg17/pokemon_application.git
 
-2. Navigate to the project directory: cd PokemonApplication
+2. Open a command prompt or terminal and navigate to the project directory.
 
 3.Build the application: dotnet build
 
@@ -33,3 +33,10 @@ fighting
 rock
 steel
 ghost
+
+## Error Handling
+If you encounter any errors or the application does not return any data for a Pokémon, ensure the following:
+
+The Pokémon name is spelled correctly.
+Your internet connection is stable.
+The PokéAPI is available and accessible.
