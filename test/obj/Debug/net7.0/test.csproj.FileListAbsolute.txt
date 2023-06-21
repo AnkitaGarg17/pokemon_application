@@ -1,0 +1,15 @@
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/test
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/test.deps.json
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/test.dll
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/test.pdb
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.dll
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/refint/test.dll
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.pdb
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/ref/test.dll

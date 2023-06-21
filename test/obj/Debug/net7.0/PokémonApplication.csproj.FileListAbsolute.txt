@@ -1,0 +1,15 @@
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/PokémonApplication
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/PokémonApplication.deps.json
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/PokémonApplication.runtimeconfig.json
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/PokémonApplication.dll
+/Users/akshitahuja/Projects/test/test/bin/Debug/net7.0/PokémonApplication.pdb
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.csproj.AssemblyReference.cache
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.AssemblyInfoInputs.cache
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.AssemblyInfo.cs
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.csproj.CoreCompileInputs.cache
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.dll
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/refint/PokémonApplication.dll
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.pdb
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/PokémonApplication.genruntimeconfig.cache
+/Users/akshitahuja/Projects/test/test/obj/Debug/net7.0/ref/PokémonApplication.dll
