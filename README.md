@@ -11,9 +11,9 @@ To run the Pokémon console application locally, you need to have [.NET Core](ht
 
 2. Open a command prompt or terminal and navigate to the project directory.
 
-3.Build the application: dotnet build
+3. Build the application: dotnet build
 
-4. 4. Run the following command to restore the NuGet packages: dotnet restore
+4. Run the following command to restore the NuGet packages: dotnet restore
 
 ## Usage
 
